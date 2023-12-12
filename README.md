@@ -7,7 +7,7 @@ DriverPass was a driving instruction client who wanted to provide a cloud-based 
 ---What did you do particularly well?
 
 My main skills are analysis and design. So I would say that despite a few setbacks, all the work that I have done has been done very well. Systems are a lot like machines which is essentially engineering. So when I look at a system there's a certain level of understanding to learn
-and know how objects function and how they should be interacting with each other to work efficiently.
+and know how objects function and how they should be interacting with each other to work efficiently as a part of a system.
 
 ---If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
